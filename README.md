@@ -1,7 +1,24 @@
 # 60-dars
 
+
+
 ## Cloning project
+```
 $ git clone git@github.com:Abdulaziz-17/WeatherApp.git
+
+```
+
+## Open 
+
+```
+cd WeatherApp
+
+```
+
+## Project setup
+```
+npm install
+```
 
 ## Project setup
 ```
