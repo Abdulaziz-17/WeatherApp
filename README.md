@@ -1,6 +1,7 @@
 # 60-dars
 
-$ git clone https://github.com/libgit2/libgit2
+## Cloning project
+$ git clone git@github.com:Abdulaziz-17/WeatherApp.git
 
 ## Project setup
 ```
